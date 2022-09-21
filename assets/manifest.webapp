@@ -1,6 +1,6 @@
 {
   "version": "4.0.0",
-  "name": "albinotonnina",
+  "name": "anshuman",
   "description": null,
   "icons": {
     "60": "/assets/firefox_app_60x60.png",
@@ -8,7 +8,7 @@
     "512": "/assets/firefox_app_512x512.png"
   },
   "developer": {
-    "name": "Anshuman Abhishek",
-    "url": "http://anshuman2121.github.io"
+    "name": "Albino Tonnina",
+    "url": "http://www.anshuman.com"
   }
 }
