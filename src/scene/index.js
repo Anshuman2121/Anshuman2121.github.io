@@ -46,7 +46,7 @@ export default function scene(props) {
 
   React.useEffect(() => {
     document.querySelector("#contactsbutton").addEventListener("click", () => {
-      window.open("https://www.linkedin.com/in/anshuman/");
+      window.open("https://www.linkedin.com/in/anshumanabhishek1/");
     });
   });
   React.useEffect(() => {
